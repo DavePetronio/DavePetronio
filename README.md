@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @DavePetronio
+- I’m interested in Data science and virtualization
+- My LinkedIn: https://www.linkedin.com/in/david-petronio-366735116/
