@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @DavePetronio
-- I’m interested in Data science and virtualization
+- I’m interested in Data science, Cybersecurity, and Virtualization
 - My LinkedIn: https://www.linkedin.com/in/david-petronio-366735116/
