@@ -1,3 +1,2 @@
 - Hi, I’m David Petronio
-- I’m interested in Data science, Cybersecurity, and Virtualization
 - My LinkedIn: https://www.linkedin.com/in/david-petronio-366735116/
