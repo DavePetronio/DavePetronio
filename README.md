@@ -1,2 +1,3 @@
 - Hi, I’m David Petronio
+- Tableau Public: https://public.tableau.com/app/profile/david.petronio
 - My LinkedIn: https://www.linkedin.com/in/david-petronio-366735116/
